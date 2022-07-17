@@ -1,0 +1,3 @@
+to start you need to open two projects one with the name HaifaPort and one with the name EilatPort.
+add the .c file from the matching src folder.
+and to start run the HaifaPort with cmd or visual studio  with a arg that contain a number between 2 to 50
